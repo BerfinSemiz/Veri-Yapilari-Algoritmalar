@@ -1,6 +1,5 @@
-# Insertion Sort Algoritması Detaylı Analizi
+# Insertion Sort Algoritması 
 
-## Veri Seti
 **İncelenecek dizi:** [22, 27, 16, 2, 18, 6]
 
 ---
@@ -77,4 +76,4 @@ Sıralama sonrası 18 sayısı **Average Case** kapsamına girer çünkü dizini
 
 ---
 
-*Bu analiz, Insertion Sort'un basit ama etkili bir sıralama algoritması olduğunu göstermektedir.*
+
