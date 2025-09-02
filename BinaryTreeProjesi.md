@@ -1,15 +1,10 @@
-# İkili Arama Ağacı Oluşturma Rehberi
+# İkili Arama Ağacı 
 
-Merhaba arkadaşlar! Bugün birlikte İkili Arama Ağacı (Binary Search Tree) oluşturmayı öğreneceğiz! 🌳
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]**
 
-## Görevimiz
-Şu diziyi kullanacağız: **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]**
-
-Amacımız: Her elemanın nereye yerleşeceğini göstererek bir BST oluşturmak!
+Amacımız: Her elemanın nereye yerleşeceğini göstererek bir BST oluşturmak.
 
 ---
-
-## Adım Adım İnşa Edelim! 🚀
 
 ### 1. Adım: Kök ile başlayalım
 ```
@@ -78,6 +73,5 @@ Amacımız: Her elemanın nereye yerleşeceğini göstererek bir BST oluşturmak
 - **Sağ alt ağaç:** 7'den büyük tüm sayılar
 - Her düğüm BST özelliğini takip eder: sol çocuk < ebeveyn < sağ çocuk
 
-Harika değil mi? 😊
 
 
