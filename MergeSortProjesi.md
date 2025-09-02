@@ -1,9 +1,6 @@
-# Merge Sort Algoritması İncelemesi
+# Merge Sort Algoritması 
 
-## Problem Tanımı
 Verilen dizi: **[16, 21, 11, 8, 12, 22]**
-
-Merge Sort algoritmasını uygulayarak karmaşıklık analizini gerçekleştiriniz.
 
 ---
 
@@ -42,7 +39,8 @@ Sonuç:       [8, 11, 12, 16, 21, 22]
 
 ---
 
-*Not: Bu analiz, Merge Sort'un Bubble Sort veya Selection Sort gibi basit algoritmalara göre verimliliğini göstermektedir.*
+
+
 
 
 
